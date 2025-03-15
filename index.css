@@ -22,11 +22,19 @@ h1, p {
     background-color: white;
     color: black;
     transition-duration: 0.4s;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
 }
 
 .buton:hover {
     color: white;
     background-color: black;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
 }
 
 .menu {
@@ -40,4 +48,8 @@ h1, p {
     border-radius: 15px;
     background-color: white;
     color: black;
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
 }
