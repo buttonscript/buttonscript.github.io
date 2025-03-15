@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Mona+Sans:ital,wght@0,200..900;1,200..900&display=swap');
+
+
+h1, p {
+    font-family: "Mona Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+}
+
+.buton {
+    font-family: "Mona Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+    border: 2px solid black;
+    border-radius: 15px;
+    background-color: white;
+    color: black;
+    transition-duration: 0.4s;
+}
+
+.buton:hover {
+    color: white;
+    background-color: black;
+}
+
+.menu {
+    font-family: "Mona Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+    border: 2px solid black;
+    border-radius: 15px;
+    background-color: white;
+    color: black;
+}
